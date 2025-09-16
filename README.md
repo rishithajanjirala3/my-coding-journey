@@ -1,7 +1,5 @@
 # my-coding-journey
 
-readme_content = """# Number Algorithms Practice
-
 This repository contains simple Python programs to solve common algorithmic problems related to numbers, as typically asked in beginner coding interviews.
 
 ## Problem List
@@ -44,20 +42,8 @@ This repository contains simple Python programs to solve common algorithmic prob
 
 Each problem has its own Python file. Simply run the file in your Python environment and follow any prompts for input.
 
-```bash
-python greatest_of_two.py
-```
-
 ## Contributing
 
 Feel free to submit pull requests for optimizations, bug fixes, or additional problems!
 
-## License
 
-This project is licensed under the MIT License.
-"""
-
-with open("README.md", "w") as file:
-    file.write(readme_content)
-
-"README.md file created successfully."

@@ -1,4 +1,4 @@
-#check whther a number is positive or negative
+#check whether a number is positive or negative
 
 #method 1 using if else
 num=int(input('enter num: '))
@@ -14,4 +14,5 @@ else:
 # ( Condition ) ? ( if True : Action) : ( if False : Action) ;
 
 num=int(input('enter num: '))
+
 print('positvie' if num>=0 else 'negative')
